@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a5e926f.css",
-    "main.js": "/static/js/main.54a37c2b.js",
+    "main.js": "/static/js/main.fc33b122.js",
     "static/media/youtube.png": "/static/media/youtube.95d07727ef47dc38af87.png",
     "static/media/burger.png": "/static/media/burger.476d6fd840ffdbcd745b.png",
     "static/media/Led-Painting.png": "/static/media/Led-Painting.75dc4fc7004fdc0114de.png",
@@ -30,15 +30,16 @@
     "static/media/mongodb.svg": "/static/media/mongodb.bfa6cdd80f4a99232cadb39ebbb976d2.svg",
     "index.html": "/index.html",
     "static/media/name.svg": "/static/media/name.e5809d87b40d0d46085b4fe39927cf19.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.973c73e85d4daa24b257ba20298716c4.svg",
     "static/media/hello-line.svg": "/static/media/hello-line.3374b2fc90df74d76c8b6a9675ca2623.svg",
     "static/media/corse.svg": "/static/media/corse.b30cd412cb3c649f7b401e32128c6707.svg",
     "static/media/green dot.svg": "/static/media/green dot.ab2475b94a2fb53e41752201ad93a84d.svg",
     "static/media/purpel dot.svg": "/static/media/purpel dot.bd6c9ecd4059c093986992c4f127c63b.svg",
     "main.1a5e926f.css.map": "/static/css/main.1a5e926f.css.map",
-    "main.54a37c2b.js.map": "/static/js/main.54a37c2b.js.map"
+    "main.fc33b122.js.map": "/static/js/main.fc33b122.js.map"
   },
   "entrypoints": [
     "static/css/main.1a5e926f.css",
-    "static/js/main.54a37c2b.js"
+    "static/js/main.fc33b122.js"
   ]
 }
